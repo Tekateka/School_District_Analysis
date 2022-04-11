@@ -21,10 +21,6 @@ math decreases from 75.0 to 74.8 and slightly decrease passing reading from 85.8
 #### District summary for all students.
 ![](All_students.png)
 
-### District summary without ninth grade Thomas High school. 
-
-![](tenth_Thomas.png)
-
 ### 2. How is the school summary affected 
 
 The overall passing for Thomas High School was dropped from 91.0 to 65.0 after removing ninth graders. But the total number of students didn't change for all analysis. 
@@ -34,9 +30,7 @@ With the original data Thomas High School was the top 5 schools in the district 
 Removing ninth graders from Thomas High School didn't affect scores by grades for math and reading as shown below. The student count for Thomas High School was 1174.
 
 Math scores by grade  
- 
-![Map](Math.png)                                                             
+![Map](Math.PNG)                                                             
                          
  Reading scores by grade
-
-![Map](Reading.png)  
+![Map](Reading.PNG)  
