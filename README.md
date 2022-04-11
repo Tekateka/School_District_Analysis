@@ -33,8 +33,10 @@ With the original data Thomas High School was the top 5 schools in the district 
 4.How does replacing the ninth-grade scores affect math and reading scores by grade
 Removing ninth graders from Thomas High School didn't affect scores by grades for math and reading as shown below. The student count for Thomas High School was 1174.
 
-Math scores by grade   
+Math scores by grade  
+ 
 ![Map](Math.png)                                                             
                          
  Reading scores by grade
+
 ![Map](Reading.png)  
