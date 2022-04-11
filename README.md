@@ -33,9 +33,9 @@ Removing ninth graders from Thomas High School didn't affect scores by grades fo
 Math scores by grade  
 ![Map](Math.PNG)                                                             
 
-Reading scores by grade
+Reading scores by grade  
 ![Map](Reading.PNG)  
-
+ 
 #### 4.1 Scores by school spending. 
 The table below shows that the average math and reading were the same, however in bin $630-644 the percentage of students passing math, reading and the overall passing were dropped by around 7 points. 
 ![Map](Spending.PNG) 
