@@ -32,7 +32,7 @@ Removing ninth graders from Thomas High School didn't affect scores by grades fo
 
 Math scores by grade  
 ![Map](Math.PNG)                                                             
-                         
+
 Reading scores by grade
 ![Map](Reading.PNG)  
 
