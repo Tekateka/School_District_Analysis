@@ -34,7 +34,7 @@ With the original data Thomas High School was the top 5 schools in the district 
 Removing ninth graders from Thomas High School didn't affect scores by grades for math and reading as shown below. The student count for Thomas High School was 1174.
 
 Math scores by grade   
-![](Math.png)                                                             
+![Map](Math.png)                                                             
                          
  Reading scores by grade
-![](Reading.png)  
+![Map](Reading.png)  
